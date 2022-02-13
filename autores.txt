@@ -2,3 +2,7 @@
 
 	user.name "Bastianmgm"
 	user.email "sbastian.moreno@gmail.com"
+	
+	user.name "ImJuanje"
+	user.email "juanjecontact@gmail.com"
+	
